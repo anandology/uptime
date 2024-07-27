@@ -7,6 +7,10 @@ sites:
     url: https://anandology.com/
   - name: Pipal Academy
     url: https://pipal.in
+  - name: Cental Pollution Control Board - OCEMS Live Data
+    url: https://rtdms.cpcb.gov.in/api/industryList/45/39/Bangalore
+    headers:
+        - "Referer: https://rtdms.cpcb.gov.in/data/"
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
