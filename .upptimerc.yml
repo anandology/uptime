@@ -9,6 +9,7 @@ sites:
     url: https://pipal.in
   - name: Cental Pollution Control Board - OCEMS Live Data
     url: https://rtdms.cpcb.gov.in/api/industryList/45/39/Bangalore
+    __dangerous__disable_verify_peer: true
     headers:
         - "Referer: https://rtdms.cpcb.gov.in/data/"
 status-website:
