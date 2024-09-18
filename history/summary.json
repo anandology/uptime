@@ -43,17 +43,17 @@
     "url": "https://rtdms.cpcb.gov.in/api/industryList/45/39/Bangalore",
     "icon": "https://icons.duckduckgo.com/ip3/rtdms.cpcb.gov.in.ico",
     "slug": "cental-pollution-control-board-ocems-live-data",
-    "status": "up",
-    "uptime": "92.05%",
+    "status": "down",
+    "uptime": "95.40%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "94.86%",
     "uptimeMonth": "95.01%",
-    "uptimeYear": "92.05%",
-    "time": 4028,
-    "timeDay": 1823,
-    "timeWeek": 2461,
-    "timeMonth": 3748,
-    "timeYear": 4028,
+    "uptimeYear": "95.40%",
+    "time": 4016,
+    "timeDay": 1686,
+    "timeWeek": 2425,
+    "timeMonth": 3732,
+    "timeYear": 4016,
     "dailyMinutesDown": {
       "2024-09-18": 22,
       "2024-09-16": 68,
@@ -91,9 +91,7 @@
       "2024-08-08": 166,
       "2024-08-07": 61,
       "2024-08-06": 105,
-      "2024-08-05": 434,
-      "2024-08-04": 1440,
-      "2024-08-03": 693
+      "2024-08-05": 19
     }
   }
 ]
