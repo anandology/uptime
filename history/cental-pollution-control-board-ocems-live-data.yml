@@ -1,7 +1,7 @@
 url: https://rtdms.cpcb.gov.in/api/industryList/45/39/Bangalore
-status: down
-code: 500
-responseTime: 21587
-lastUpdated: 2024-09-22T20:32:27.031Z
+status: up
+code: 200
+responseTime: 2147
+lastUpdated: 2024-09-22T21:39:31.337Z
 startTime: 2024-07-27T10:09:46.425Z
 generator: Upptime <https://github.com/upptime/upptime>
