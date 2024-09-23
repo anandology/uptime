@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtdms.cpcb.gov.in.ico",
     "slug": "cental-pollution-control-board-ocems-live-data",
     "status": "up",
-    "uptime": "95.77%",
-    "uptimeDay": "61.32%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "94.03%",
-    "uptimeYear": "95.77%",
+    "uptime": "95.75%",
+    "uptimeDay": "66.10%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "95.75%",
     "time": 5497,
-    "timeDay": 11813,
+    "timeDay": 11594,
     "timeWeek": 8999,
     "timeMonth": 5707,
     "timeYear": 5497,
     "dailyMinutesDown": {
-      "2024-09-22": 554,
+      "2024-09-22": 545,
       "2024-09-21": 284,
       "2024-09-18": 45,
       "2024-09-16": 68,
@@ -85,7 +85,8 @@
       "2024-08-19": 37,
       "2024-08-17": 181,
       "2024-08-16": 135,
-      "2024-08-14": 142
+      "2024-08-14": 142,
+      "2024-08-13": 34
     }
   }
 ]
