@@ -25,7 +25,7 @@
     "url": "https://pipal.in",
     "icon": "https://icons.duckduckgo.com/ip3/pipal.in.ico",
     "slug": "pipal-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1142,
     "timeMonth": 1178,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 0
+    }
   },
   {
     "name": "Cental Pollution Control Board - OCEMS Live Data",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtdms.cpcb.gov.in.ico",
     "slug": "cental-pollution-control-board-ocems-live-data",
     "status": "down",
-    "uptime": "73.65%",
+    "uptime": "73.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.36%",
-    "uptimeYear": "73.65%",
+    "uptimeMonth": "35.23%",
+    "uptimeYear": "73.02%",
     "time": 6149,
     "timeDay": 1206,
     "timeWeek": 1380,
-    "timeMonth": 8371,
+    "timeMonth": 8449,
     "timeYear": 6149,
     "dailyMinutesDown": {
-      "2024-10-12": 55,
+      "2024-10-12": 1005,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
