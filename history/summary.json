@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 986,
-    "timeWeek": 1059,
-    "timeMonth": 1124,
+    "time": 995,
+    "timeDay": 1092,
+    "timeWeek": 1070,
+    "timeMonth": 1121,
     "timeYear": 993,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipal.in.ico",
     "slug": "pipal-academy",
     "status": "up",
-    "uptime": "90.03%",
+    "uptime": "90.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.97%",
     "time": 1050,
-    "timeDay": 978,
-    "timeWeek": 1038,
-    "timeMonth": 1091,
-    "timeYear": 1013,
+    "timeDay": 975,
+    "timeWeek": 1034,
+    "timeMonth": 1086,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-03-16": 1128,
       "2025-03-15": 1440,
@@ -81,8 +81,7 @@
       "2025-01-01": 313,
       "2024-12-31": 1048,
       "2024-12-30": 36,
-      "2024-10-13": 743,
-      "2024-10-12": 435
+      "2024-10-13": 743
     }
   },
   {
@@ -91,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtdms.cpcb.gov.in.ico",
     "slug": "cental-pollution-control-board-ocems-live-data",
     "status": "down",
-    "uptime": "12.81%",
+    "uptime": "12.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3837,
-    "timeDay": 1424,
-    "timeWeek": 1517,
-    "timeMonth": 1756,
-    "timeYear": 1445,
+    "time": 3833,
+    "timeDay": 1675,
+    "timeWeek": 1550,
+    "timeMonth": 1754,
+    "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-10-11": 59,
+      "2025-10-12": 64,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -465,8 +465,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   }
 ]
